@@ -9,7 +9,7 @@ To write the python program for simulating ping command.
 2. Include necessary package in java.
 3. To create a process object p to implement the ping command.
 4. Declare one Buffered Reader stream class object.
-5. Get the details of the server
+5. Get the details of the server : 
 (a) Length of the IP address.
 (b) Time required to get the details.
 (c) Send packets, receive packets and lost packets.
